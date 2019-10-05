@@ -142,10 +142,11 @@ class Linkedlist:
         print(plast.data)
 
     def checkLinkedListAPalindrome(self):
-        pass
+        #Loop through list and push to stack. 
+        #pop out of stack and see if things is same. 
 
     def removeDuplicateFromUnsorted(self):
-        pass
+        # sort with merge sort
 
 def checkLinkedListIntersect(ll1, ll2):
     pass
